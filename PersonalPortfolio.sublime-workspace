@@ -1,0 +1,1874 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Unlock",
+				"UnlockedHats"
+			],
+			[
+				"GameConf",
+				"GameConfiguration.Instance"
+			],
+			[
+				"achieve",
+				"achievItemUseArray"
+			],
+			[
+				"ACH_Da",
+				"ACH_DANCE_2"
+			],
+			[
+				"ACH_MI",
+				"ACH_MISSILE_1"
+			],
+			[
+				"ACH_Perfe",
+				"ACH_PERFECT_2"
+			],
+			[
+				"ACH_Per",
+				"ACH_PERFECT_1"
+			],
+			[
+				"Un",
+				"UnlockHat"
+			],
+			[
+				"unlock",
+				"unlockedSlapeeIndex"
+			],
+			[
+				"for",
+				"for	For"
+			],
+			[
+				"GetUnlo",
+				"GetUnlockedHats"
+			],
+			[
+				"GetKeyDown",
+				"Input.GetKeyDown(key)"
+			],
+			[
+				"m_total",
+				"m_totalSlaps"
+			],
+			[
+				"achiev",
+				"achievItemUseArray"
+			],
+			[
+				"Checkfor",
+				"CheckForRaveAchievs"
+			],
+			[
+				"ACH_T",
+				"ACH_2_EVENTS"
+			],
+			[
+				"Calcula",
+				"CalculateCameraForward"
+			],
+			[
+				"matchse",
+				"matchSettingsManager"
+			],
+			[
+				"Settings",
+				"SettingsTweenEase"
+			],
+			[
+				"keyboard",
+				"keyboardListener"
+			],
+			[
+				"joyst",
+				"joystickListener"
+			],
+			[
+				"pressa",
+				"PressAHatGroup"
+			],
+			[
+				"Pressa",
+				"PressAHatGroup"
+			],
+			[
+				"Bassayb",
+				"BassAYBSlapee"
+			],
+			[
+				"GetCompone",
+				"GetComponentInChildren"
+			],
+			[
+				"bass",
+				"Bass"
+			],
+			[
+				"Slapee",
+				"SlapeeGO"
+			],
+			[
+				"Prepare",
+				"PrepareBassSelection"
+			],
+			[
+				"Over",
+				"OverSlapeeCanvas"
+			],
+			[
+				"Curr",
+				"CurrentSlapee"
+			],
+			[
+				"Unlocked",
+				"UnlockedHats"
+			],
+			[
+				"title",
+				"TitleGO"
+			],
+			[
+				"playermode",
+				"playerModels"
+			],
+			[
+				"TryAgain",
+				"TryAgainBtn"
+			],
+			[
+				"BackTo",
+				"BackToTitleBtn"
+			],
+			[
+				"groun",
+				"groundDropEffect"
+			],
+			[
+				"issl",
+				"isSliding"
+			],
+			[
+				"PlayerA",
+				"PlayerAreas"
+			],
+			[
+				"Orch",
+				"OrchHitScale"
+			],
+			[
+				"Slap",
+				"SlapKingTutorial"
+			],
+			[
+				"Versus",
+				"VersusTutorial"
+			],
+			[
+				"Tutorial",
+				"TutorialCamTarget"
+			],
+			[
+				"Update",
+				"UpdateLookAt"
+			],
+			[
+				"Origi",
+				"OriginalCameraPos"
+			],
+			[
+				"Tutor",
+				"TutorialText"
+			],
+			[
+				"Coop",
+				"CoopTutorial"
+			],
+			[
+				"Mul",
+				"FocusMultipleCamera2"
+			],
+			[
+				"outlin",
+				"outlineColor"
+			],
+			[
+				"else",
+				"else	Else"
+			],
+			[
+				"vELOC",
+				"VelocityChange"
+			],
+			[
+				"bounds",
+				"boundsBounceDir"
+			],
+			[
+				"SlapBackwa",
+				"SlapBackwardHasPeaked"
+			],
+			[
+				"slapback",
+				"SlapBackward_BlendTree"
+			],
+			[
+				"slapba",
+				"SlapBackward_BlendTree"
+			],
+			[
+				"SlapForward",
+				"SlapForward_BlendTree"
+			],
+			[
+				"l",
+				"loop"
+			],
+			[
+				"Slapc",
+				"SlapCounterP1"
+			],
+			[
+				"Player",
+				"PlayerAreaTextures"
+			],
+			[
+				"PlayerAre",
+				"PlayerAreaState"
+			],
+			[
+				"AreaB",
+				"AreaBorder"
+			],
+			[
+				"Areabo",
+				"AreaBorderTween"
+			],
+			[
+				"AreaBor",
+				"AreaBorderTween"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"Get",
+				"GetSlapValue"
+			],
+			[
+				"Bass",
+				"BassBehaviour"
+			],
+			[
+				"Playerare",
+				"playerAreaState"
+			],
+			[
+				"SlapKin",
+				"SlapKingFields"
+			],
+			[
+				"flahs",
+				"FlashColor"
+			],
+			[
+				"Veloci",
+				"velocity"
+			],
+			[
+				"right",
+				"rightSlapperSpeed"
+			],
+			[
+				"inpu",
+				"LeaderboardInputLocked"
+			],
+			[
+				"LeaderboardMode",
+				"LeaderboardModeGroup"
+			],
+			[
+				"inputlo",
+				"inputLocked"
+			],
+			[
+				"current",
+				"currentLeaderboardTitle"
+			],
+			[
+				"Loadingm",
+				"LoadingMessageText"
+			],
+			[
+				"GetComp",
+				"GetComponentsInChildren"
+			],
+			[
+				"Switc",
+				"SwitchBetweenTopAndUserScores"
+			],
+			[
+				"Next",
+				"nextLeaderboardType"
+			],
+			[
+				"Entries",
+				"EntriesPerLeaderboard"
+			],
+			[
+				"topsc",
+				"ShowTopScores"
+			],
+			[
+				"text",
+				"text"
+			],
+			[
+				"next",
+				"nextLeaderboardType"
+			],
+			[
+				"entry",
+				"EntryPrefab"
+			],
+			[
+				"ent",
+				"EntryPrefab"
+			],
+			[
+				"leaderboard",
+				"leaderboardEntry"
+			],
+			[
+				"leaderbo",
+				"leaderboardEntry"
+			],
+			[
+				"Leaderb",
+				"LeaderboardEntry_t"
+			],
+			[
+				"Leaderboardscoresd",
+				"LeaderboardScoresDownloaded_t"
+			],
+			[
+				"Leaderboardsc",
+				"LeaderboardScoresDownloaded_t"
+			],
+			[
+				"nran",
+				"nRangeEnd"
+			],
+			[
+				"nrange",
+				"nRangeStart"
+			],
+			[
+				"leadero",
+				"leaderboardName"
+			],
+			[
+				"Downlo",
+				"DownloadScoresSequence"
+			],
+			[
+				"Right",
+				"RightFish"
+			],
+			[
+				"Playertop",
+				"PlayerTopScore"
+			],
+			[
+				"Leaderboard",
+				"LeaderboardsGroup"
+			],
+			[
+				"playernum",
+				"playerNumLeaderboardName"
+			],
+			[
+				"playern",
+				"playerNum"
+			],
+			[
+				"LeaderboardScore",
+				"LeaderboardScoreUploaded_t"
+			],
+			[
+				"Leade",
+				"LeaderboardFindResult"
+			],
+			[
+				"Leader",
+				"LeaderboardType"
+			],
+			[
+				"rave",
+				"raveLoop"
+			],
+			[
+				"index",
+				"indexInAlivePlayers"
+			],
+			[
+				"playerid",
+				"playerIdToRemove"
+			],
+			[
+				"plae",
+				"playerId"
+			],
+			[
+				"Game",
+				"GameObject"
+			],
+			[
+				"Cannon",
+				"CannonFall"
+			],
+			[
+				"Gold",
+				"GoldTween"
+			],
+			[
+				"Highe",
+				"HighestScore"
+			],
+			[
+				"ke",
+				"keyboardListener"
+			],
+			[
+				"joys",
+				"joystickListener"
+			],
+			[
+				"Manager",
+				"ManageLeaderBoardInput"
+			],
+			[
+				"loops",
+				"SlapStepLoops"
+			],
+			[
+				"SlapS",
+				"SlapStepCounter"
+			],
+			[
+				"Audio",
+				"AudioManager"
+			],
+			[
+				"flag",
+				"flagLoop"
+			],
+			[
+				"Ambie",
+				"AmbientFX"
+			],
+			[
+				"sound",
+				"SoundFXVolume"
+			],
+			[
+				"Item",
+				"ItemGet"
+			],
+			[
+				"slaps",
+				"SlapStepNumber"
+			],
+			[
+				"Glock",
+				"GlockenScale"
+			],
+			[
+				"Qua",
+				"QualitySettings"
+			],
+			[
+				"QUa",
+				"Quality"
+			],
+			[
+				"Quali",
+				"QualitySettings"
+			],
+			[
+				"QUalit",
+				"QualityControls"
+			],
+			[
+				"qualit",
+				"QualityControls"
+			],
+			[
+				"Qual",
+				"Quality"
+			],
+			[
+				"quali",
+				"QualityControls"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "content/portfolio/work1.md",
+			"settings":
+			{
+				"buffer_size": 5127,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/portfolio/work2.md",
+			"settings":
+			{
+				"buffer_size": 1626,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/portfolio/work3.md",
+			"settings":
+			{
+				"buffer_size": 745,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/portfolio/work4.md",
+			"settings":
+			{
+				"buffer_size": 2339,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/portfolio/work5.md",
+			"settings":
+			{
+				"buffer_size": 1182,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/portfolio/work6.md",
+			"settings":
+			{
+				"buffer_size": 2471,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "config.toml",
+			"settings":
+			{
+				"buffer_size": 2065,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/about/index.md",
+			"settings":
+			{
+				"buffer_size": 1674,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "content/contact/index.md",
+			"settings":
+			{
+				"buffer_size": 312,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 73.0,
+		"last_filter": "word co",
+		"selected_items":
+		[
+			[
+				"word co",
+				"LaTeXWordCount: Word Count"
+			],
+			[
+				"word",
+				"LaTeXWordCount: Word Count"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"hugo",
+				"Hugofy : Version"
+			],
+			[
+				"hipster",
+				"Hipster Ipsum: Occupy"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"()",
+				"Set Syntax: SQL (Rails)"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"paca",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"packagec",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Package Control: Install Package"
+			],
+			[
+				"packagecontrol",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"hex",
+				"Hex Viewer: Toggle Hex View"
+			]
+		],
+		"width": 593.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/about",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/contact",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/data",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/layouts",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/static",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/static/img",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/static/img/portfolio",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/contact",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/static"
+	],
+	"file_history":
+	[
+		"/C/Users/lfeli/Downloads/Patched and Keygen/How to Install.txt",
+		"/C/Users/lfeli/Downloads/Ableton Live 9 Suite with CRACK Serial Key/Instructions.txt",
+		"/C/Users/lfeli/Downloads/Don't_Drop_the_Bass_Press_pkg104269_start0_num5.txt",
+		"/C/Users/lfeli/AppData/Local/Temp/Temp1_Don't_Drop_the_Bass_Press_pkg104269_start0_num10.zip/Don't_Drop_the_Bass_Press_pkg104269_start0_num10.txt",
+		"/C/Users/lfeli/Downloads/Don't_Drop_the_Bass_Press_pkg104269_start0_num1.txt",
+		"/C/Users/lfeli/AppData/Local/Temp/Temp1_Don't_Drop_the_Bass_Press_pkg104269_start0_num1.zip/Don't_Drop_the_Bass_Press_pkg104269_start0_num1.txt",
+		"/C/Users/lfeli/AppData/Local/Temp/fz3temp-1/page-landing.php",
+		"/C/Users/lfeli/AppData/Local/Temp/fz3temp-1/data.xml",
+		"/C/Users/lfeli/AppData/Local/Temp/fz3temp-1/_data.xml",
+		"/C/Users/lfeli/Documents/Radishbox/DDtB/press/data.xml",
+		"/C/Users/lfeli/AppData/Roaming/Ableton/Live 9.7.1/Preferences/Options.txt",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/contact/index.md",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/TitleScreenManager.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/GameConfiguration.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Steamwork.NET/SteamStatsAndAchievements.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Unlockables/UnlockablesLibrary.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/GameManager.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/RoomManager.cs",
+		"/C/Users/lfeli/Desktop/MWU_Story.txt",
+		"/C/Users/lfeli/AppData/Local/Temp/Temp1_Don't_Drop_the_Bass_Beta_pkg104269_start0_num2 (1).zip/Don't_Drop_the_Bass_Beta_pkg104269_start0_num2.txt",
+		"/C/Users/lfeli/Desktop/steamworks_sdk_138a/sdk/tools/ContentBuilder/scripts/depot_build_471221.vdf",
+		"/C/Users/lfeli/Desktop/steamworks_sdk_138a/sdk/tools/ContentBuilder/scripts/app_build_471220.vdf",
+		"/C/Users/lfeli/Desktop/steamworks_sdk_138a/sdk/tools/ContentBuilder/output/app_build_471220.log",
+		"/C/Users/lfeli/Desktop/steamworks_sdk_138a/sdk/tools/ContentBuilder/output/depot_build_471221.log",
+		"/C/Users/lfeli/Desktop/steamworks_sdk_138a/sdk/tools/ContentBuilder/scripts/app_build_471220_OSX.vdf",
+		"/C/Users/lfeli/Desktop/steamworks_sdk_138a/sdk/tools/ContentBuilder/scripts/depot_build_471222.vdf",
+		"/C/Users/lfeli/Desktop/steamworks_sdk_138a/sdk/tools/ContentBuilder/run_build_OSX.bat",
+		"/C/Users/lfeli/AppData/Local/Temp/Temp1_Don't_Drop_the_Bass_Beta_pkg104269_start0_num2.zip/Don't_Drop_the_Bass_Beta_pkg104269_start0_num2.txt",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/partials/portfolio.html",
+		"/C/Users/lfeli/Desktop/steamworks_sdk_138a/sdk/tools/ContentBuilder/scripts/depot_build_471221_OSX.vdf",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/asdfasfasf.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/index.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/_default/list.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/work5.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/work10.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/work9.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/work8.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/work6.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/work4.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/work3.md",
+		"/C/Users/lfeli/Desktop/Tocadas.txt",
+		"/C/Users/lfeli/Desktop/steamworks_sdk_138a/sdk/tools/ContentBuilder/readme.txt",
+		"/C/Users/lfeli/Desktop/steamworks_sdk_138a/sdk/tools/ContentBuilder/run_build.bat",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/MatchSettingsManager.cs",
+		"/C/Users/lfeli/Desktop/Glowstone_Setlist.txt",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/AudioManager.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/GameSave.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Util/SaveLoadUtil.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/BassBehaviour.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Timer.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Steamwork.NET/SteamManager.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Unlockables/Unlockable.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Player.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/autogen/isteamuserstats.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/RoomEvent.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/RoomEventLibrary.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/ItemScript.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/InControl/Source/Binding/PlayerAction.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Input/PlayerActions.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/InControl/Source/Control/InputControlBase.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Items/slowBallScript.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/GameSettingsManager.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/LevelProgressionManager.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/autogen/SteamCallbacks.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/GameGUIManager.cs",
+		"/C/Users/lfeli/Desktop/SM.txt",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/types/SteamUserStats.meta",
+		"/C/Users/lfeli/Desktop/Glowstone_Setlist",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Unlockables/Achievement.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/autogen/SteamStructs.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Unlockables/Hat.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/CSteamworks.bundle/Contents/Info.plist",
+		"/C/Users/lfeli/Documents/Unity Projects/Waving Man/Assets/Scripts/AudioManager.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Waving Man/Assets/Scripts/Citizen.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Waving Man/Assets/Scripts/Player.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Waving Man/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Waving Man/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/PlayerConfiguration.cs",
+		"/C/Users/lfeli/AppData/Roaming/Sublime Text 3/Packages/Hugofy/hugofy.sublime-settings",
+		"/C/Users/lfeli/AppData/Roaming/Sublime Text 3/Packages/User/hugofy.sublime-settings",
+		"/C/Users/lfeli/AppData/Roaming/Sublime Text 3/Packages/HipsterIpsum/README.mdown",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/NeutralArea.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Steamwork.NET/SteamLeaderboardManager.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Unlockables/Slapee.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/MatchSettings.cs",
+		"/C/Users/lfeli/Desktop/split.bat",
+		"/C/Users/lfeli/Desktop/Recreo2017-part1.csv",
+		"/C/Users/lfeli/Desktop/Recreo2017.csv",
+		"/C/Users/lfeli/Desktop/Recreo2017-part5.csv",
+		"/C/Users/lfeli/Desktop/split.batch",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/LeaderboardManager.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/types/SteamUserStats/SteamLeaderboardEntries_t.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Builds/Don't Drop the Bass_Data/output_log.txt",
+		"/C/Users/lfeli/Desktop/steamworks_sdk_138a/sdk/tools/ContentBuilder/content/your game content lives here.txt",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/PlayerArea.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Slapper.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Unlockable.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Tutorial.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Standard Assets/Toon Shading/Sources/Shaders/Toony-LightedOutline.shader",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/FocusMultipleCamera2.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/PlayerAreasManager.cs",
+		"/C/Program Files (x86)/Gource/README.txt",
+		"/C/Users/lfeli/Desktop/DDtB/BassBehaviour_Old.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/Steam.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/Packsize.cs",
+		"/C/Users/lfeli/Desktop/AccDia.txt",
+		"/C/Users/lfeli/Documents/Unity Projects/StarBitOrchestra/Assets/Scripts/PlatformAdjuster.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/StarBitOrchestra/Assets/VRSampleScenes/Scripts/UnityVR/AnimatedSelectionRadial.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/StarBitOrchestra/Assets/VRSampleScenes/Scripts/UnityVR/VRInteractiveReticleItem.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/StarBitOrchestra/Assets/Scripts/StarSeekerCamera.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/BassShadow.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/BassBehaviourRedux.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/autogen/SteamEnums.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/autogen/isteamfriends.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Steamwork.NET/SteamworksManager.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/CallbackDispatcher.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/CallbackIdentity.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/types/SteamTypes/SteamAPICall_t.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/autogen/isteammatchmaking.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/autogen/SteamConstants.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/autogen/isteamutils.cs",
+		"/C/Users/Felipe/Documents/UnityProjects/DontDropTheBass/DDTB/Assets/Scripts/GameManager.cs",
+		"/C/Users/Felipe/Documents/UnityProjects/DontDropTheBass/DDTB/Assets/Scripts/GameGUIManager.cs",
+		"/C/Users/Felipe/Documents/UnityProjects/DontDropTheBass/DDTB/Assets/Scripts/RoomManager.cs",
+		"/C/Users/Felipe/Documents/UnityProjects/DontDropTheBass/DDTB/Assets/Scripts/RoomEvent.cs",
+		"/C/Users/Felipe/Documents/UnityProjects/DontDropTheBass/DDTB/Assets/Scripts/GameSettingsManager.cs",
+		"/C/Users/Felipe/Documents/UnityProjects/DontDropTheBass/DDTB/Assets/Scripts/Player.cs",
+		"/C/Users/Felipe/Documents/UnityProjects/DontDropTheBass/DDTB/Assets/Scripts/Util/HiResScreenshots.cs"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"steam",
+			"vote",
+			"honor description",
+			"UnlockedSlapees",
+			"SlapeeIndex",
+			"slapeeindex",
+			"startgame(",
+			"startgame",
+			"gamestart(",
+			"gamestart",
+			"matchsettingsmanager.initialize",
+			"initialize",
+			"StartGame(",
+			"UnlockedHats",
+			".hatIndex",
+			"startgame",
+			"hatindex",
+			"StartGame",
+			"startgame",
+			"HatIndex",
+			"getunlocked",
+			"steps",
+			"DOFloat(",
+			"m.DOFloat",
+			"m.DOFloat(",
+			"outline",
+			"playerConfig",
+			"RevertBassAndHatSelection",
+			"revert",
+			"hatindex",
+			"reverthat",
+			"hatindex = -1",
+			"hatindex",
+			"hat",
+			"UnlockablesByAchievements",
+			"EvaluateAchievements",
+			"unlock",
+			"EvaluateAchievements",
+			"received stat",
+			"received",
+			"EvaluateAchievements",
+			"save",
+			"unlocka",
+			"unlock",
+			"your_vm_name",
+			"Your vm name",
+			" \"",
+			"splash",
+			"render",
+			"initialize",
+			"fadeToNextLevel",
+			"originalgrav",
+			"phys",
+			"loop",
+			"marcha",
+			"StartMatchOverSequence",
+			"CheckMarchaZacatecasLoop",
+			"Zacate",
+			"zacate",
+			"initialize",
+			"CheckItemUseAchiev",
+			"achievItemUseArray",
+			"render",
+			"changesla",
+			"achieved",
+			"perfect",
+			"UnlockAchievement",
+			"ManageSavedGames",
+			"gamesave",
+			"savepr",
+			"save",
+			"savest",
+			"render",
+			"m_bStoreStats",
+			"fadeToNextLevel",
+			"loadlevel",
+			"pause",
+			"return",
+			"render",
+			"UpdateSlapNumber",
+			"unlockac",
+			"m_totalSlaps",
+			"RENDER",
+			"ONRE",
+			"m_totalSlaps",
+			"unlockachi",
+			"setstat",
+			"getsta",
+			"unlockachiev",
+			"setsta",
+			"getstat",
+			"update",
+			"m_totalSlaps",
+			"achiev",
+			"updateslapc",
+			"slapco",
+			"danc",
+			"isdanc",
+			"gameoverseq",
+			"gameover",
+			"LoadLevel",
+			"MatchOverInput",
+			"loadleve",
+			"return",
+			"ongame",
+			"onga",
+			"ons",
+			"m_nTotalGamesPlayed",
+			"getstat",
+			"Duration",
+			"getstat",
+			"duration",
+			"4",
+			"m_ulTickCountGameStart",
+			"time",
+			"achievItemUseArray",
+			"CheckItemUseAchiev",
+			"StatsAndAchievements",
+			"BitArray",
+			"speedpl",
+			"fast",
+			"speed",
+			"SpeedPlus",
+			"speed",
+			"CheckForRaveAchievs",
+			"dancing",
+			"player",
+			"CheckForRaveAchievs"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 8,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "content/portfolio/work1.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5127,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1464,
+								937
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 100.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "content/portfolio/work2.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1626,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								511,
+								511
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "content/portfolio/work3.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								744,
+								656
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "content/portfolio/work4.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2339,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1882,
+								1882
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 40.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "content/portfolio/work5.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1182,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1079,
+								1079
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "content/portfolio/work6.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2471,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1400,
+								1400
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 80.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "config.toml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2065,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								690,
+								690
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/TOML/TOML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 218.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "content/about/index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1608,
+								1608
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "content/contact/index.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 312,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								312,
+								312
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.astyle_error_message":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "PersonalPortfolio.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\lfeli\\Documents\\Unity Projects\\Don'tDropTheBass\\DDTB\\Assets\\Scripts\\TitleScreenManager.cs"
+			],
+			[
+				"achieve",
+				"Scripts\\Steamwork.NET\\SteamStatsAndAchievements.cs"
+			],
+			[
+				"gamecon",
+				"Scripts\\GameConfiguration.cs"
+			],
+			[
+				"title",
+				"Scripts\\TitleScreenManager.cs"
+			],
+			[
+				"matchse",
+				"Scripts\\MatchSettingsManager.cs"
+			],
+			[
+				"gamem",
+				"Scripts\\GameManager.cs"
+			],
+			[
+				"audioma",
+				"Scripts\\AudioManager.cs"
+			],
+			[
+				"saveload",
+				"Scripts\\Util\\SaveLoadUtil.cs"
+			],
+			[
+				"gamesa",
+				"Scripts\\GameSave.cs"
+			],
+			[
+				"room",
+				"Scripts\\RoomManager.cs"
+			],
+			[
+				"timer",
+				"Scripts\\Timer.cs"
+			],
+			[
+				"bassb",
+				"Scripts\\BassBehaviour.cs"
+			],
+			[
+				"unl",
+				"Scripts\\Unlockables\\Unlockable.cs"
+			],
+			[
+				"saveloadu",
+				"Scripts\\Util\\SaveLoadUtil.cs"
+			],
+			[
+				"bassbe",
+				"Scripts\\BassBehaviour.cs"
+			],
+			[
+				"player",
+				"Scripts\\Player.cs"
+			],
+			[
+				"roomm",
+				"Scripts\\RoomManager.cs"
+			],
+			[
+				"gamama",
+				"Scripts\\GameManager.cs"
+			],
+			[
+				"steamamanger",
+				"Scripts\\Steamwork.NET\\SteamManager.cs"
+			],
+			[
+				"steamstats",
+				"Steamworks.NET\\autogen\\isteamuserstats.cs"
+			],
+			[
+				"roomeve",
+				"Scripts\\RoomEvent.cs"
+			],
+			[
+				"item.cs",
+				"Scripts\\ItemScript.cs"
+			],
+			[
+				"library",
+				"Scripts\\RoomEventLibrary.cs"
+			],
+			[
+				"gamesav",
+				"Scripts\\GameSave.cs"
+			],
+			[
+				"gamema",
+				"Scripts\\GameManager.cs"
+			],
+			[
+				"inputcontrolbas",
+				"InControl\\Source\\Control\\InputControlBase.cs"
+			],
+			[
+				"playeraction",
+				"InControl\\Source\\Binding\\PlayerAction.cs"
+			],
+			[
+				"roomam",
+				"Scripts\\RoomManager.cs"
+			],
+			[
+				"slowb",
+				"Scripts\\Items\\slowBallScript.cs"
+			],
+			[
+				"bass",
+				"Scripts\\BassBehaviour.cs"
+			],
+			[
+				"time",
+				"Scripts\\Timer.cs"
+			],
+			[
+				"leverpr",
+				"Scripts\\LevelProgressionManager.cs"
+			],
+			[
+				"gamesett",
+				"Scripts\\GameSettingsManager.cs"
+			],
+			[
+				"titles",
+				"Scripts\\TitleScreenManager.cs"
+			],
+			[
+				"leveprog",
+				"Scripts\\LevelProgressionManager.cs"
+			],
+			[
+				"game",
+				"Scripts\\GameManager.cs"
+			],
+			[
+				"steamuserstats.cs",
+				"Steamworks.NET\\autogen\\isteamuserstats.cs"
+			],
+			[
+				"steamusers",
+				"Steamworks.NET\\types\\SteamUserStats.meta"
+			],
+			[
+				"callbacks",
+				"Steamworks.NET\\autogen\\SteamCallbacks.cs"
+			],
+			[
+				"structs",
+				"Steamworks.NET\\autogen\\SteamStructs.cs"
+			],
+			[
+				"steam",
+				"Steamworks.NET\\autogen\\SteamCallbacks.cs"
+			],
+			[
+				"unlockable",
+				"Scripts\\Unlockables\\UnlockablesLibrary.cs"
+			],
+			[
+				"audiom",
+				"Scripts\\AudioManager.cs"
+			],
+			[
+				"pla",
+				"Scripts\\Player.cs"
+			],
+			[
+				"matchsett",
+				"Scripts\\MatchSettingsManager.cs"
+			],
+			[
+				"playerac",
+				"Scripts\\Input\\PlayerActions.cs"
+			],
+			[
+				"bassbeha",
+				"Scripts\\BassBehaviour.cs"
+			],
+			[
+				"unloc",
+				"Scripts\\Unlockables\\Unlockable.cs"
+			],
+			[
+				"gamemana",
+				"Scripts\\GameManager.cs"
+			],
+			[
+				"slape",
+				"Scripts\\Unlockables\\Slapee.cs"
+			],
+			[
+				"hat",
+				"Scripts\\Unlockables\\Hat.cs"
+			],
+			[
+				"playerconfi",
+				"Scripts\\PlayerConfiguration.cs"
+			],
+			[
+				"matchset",
+				"Scripts\\MatchSettingsManager.cs"
+			],
+			[
+				"matchs",
+				"Scripts\\MatchSettings.cs"
+			],
+			[
+				"unlockablel",
+				"Scripts\\Unlockables\\UnlockablesLibrary.cs"
+			],
+			[
+				"leaderboardentr",
+				"Steamworks.NET\\types\\SteamUserStats\\SteamLeaderboardEntries_t.cs"
+			],
+			[
+				"steamleade",
+				"Scripts\\Steamwork.NET\\SteamLeaderboardManager.cs"
+			],
+			[
+				"steammana",
+				"Scripts\\Steamwork.NET\\SteamManager.cs"
+			],
+			[
+				"leaderboard",
+				"Scripts\\LeaderboardManager.cs"
+			],
+			[
+				"item",
+				"Scripts\\ItemScript.cs"
+			],
+			[
+				"gamegui",
+				"Scripts\\GameGUIManager.cs"
+			],
+			[
+				"playerconf",
+				"Scripts\\PlayerConfiguration.cs"
+			],
+			[
+				"playerare",
+				"Scripts\\PlayerArea.cs"
+			],
+			[
+				"playerarea",
+				"Scripts\\PlayerAreasManager.cs"
+			],
+			[
+				"gameguimana",
+				"Scripts\\GameGUIManager.cs"
+			],
+			[
+				"gamemanager",
+				"Scripts\\GameManager.cs"
+			],
+			[
+				"gamemena",
+				"Scripts\\GameSettingsManager.cs"
+			],
+			[
+				"focusm",
+				"Scripts\\FocusMultipleCamera2.cs"
+			],
+			[
+				"roomevent",
+				"Scripts\\RoomEvent.cs"
+			],
+			[
+				"match",
+				"Scripts\\MatchSettings.cs"
+			],
+			[
+				"action",
+				"InControl\\Source\\Binding\\PlayerAction.cs"
+			],
+			[
+				"camera",
+				"Scripts\\FocusMultipleCamera2.cs"
+			],
+			[
+				"slapper",
+				"Scripts\\Slapper.cs"
+			],
+			[
+				"gamesetting",
+				"Scripts\\GameSettingsManager.cs"
+			],
+			[
+				"playerareas",
+				"Scripts\\PlayerAreasManager.cs"
+			],
+			[
+				"neutral",
+				"Scripts\\NeutralArea.cs"
+			],
+			[
+				"guimana",
+				"Scripts\\GameGUIManager.cs"
+			],
+			[
+				"bassbehavi",
+				"Scripts\\BassBehaviour.cs"
+			],
+			[
+				"bassbehar",
+				"Scripts\\BassBehaviourRedux.cs"
+			],
+			[
+				"gameconf",
+				"Scripts\\GameConfiguration.cs"
+			],
+			[
+				"shadow",
+				"Scripts\\BassShadow.cs"
+			],
+			[
+				"settings",
+				"Scripts\\GameSettingsManager.cs"
+			],
+			[
+				"steamfriends",
+				"Steamworks.NET\\autogen\\isteamfriends.cs"
+			],
+			[
+				"gameset",
+				"Scripts\\GameSettingsManager.cs"
+			],
+			[
+				"playeractions",
+				"Scripts\\Input\\PlayerActions.cs"
+			],
+			[
+				"steamleaderboardmanager",
+				"Scripts\\Steamwork.NET\\SteamLeaderboardManager.cs"
+			],
+			[
+				"gameguima",
+				"Scripts\\GameGUIManager.cs"
+			],
+			[
+				"gameguimanag",
+				"Scripts\\GameGUIManager.cs"
+			],
+			[
+				"amemana",
+				"Scripts\\GameManager.cs"
+			],
+			[
+				"gamemaa",
+				"Scripts\\GameManager.cs"
+			],
+			[
+				"gui",
+				"Scripts\\GameGUIManager.cs"
+			],
+			[
+				"gamesettin",
+				"Scripts\\GameSettingsManager.cs"
+			],
+			[
+				"aud",
+				"Scripts\\AudioManager.cs"
+			],
+			[
+				"leaderboar",
+				"Scripts\\LeaderboardManager.cs"
+			],
+			[
+				"level",
+				"Scripts\\LevelProgressionManager.cs"
+			],
+			[
+				"itemma",
+				"Scripts\\ItemManager.cs"
+			],
+			[
+				"pbca",
+				"Scripts\\PBCannon.cs"
+			],
+			[
+				"audio",
+				"Scripts\\AudioManager.cs"
+			],
+			[
+				"progres",
+				"Scripts\\LevelProgressionManager.cs"
+			],
+			[
+				"savelo",
+				"Scripts\\Util\\SaveLoadUtil.cs"
+			],
+			[
+				"score",
+				"Scripts\\Score.cs"
+			],
+			[
+				"games",
+				"Scripts\\GameSave.cs"
+			],
+			[
+				"gamese",
+				"Scripts\\GameSettingsManager.cs"
+			],
+			[
+				"tit",
+				"Scripts\\TitleScreenManager.cs"
+			],
+			[
+				"save",
+				"Scripts\\Util\\SaveLoadUtil.cs"
+			],
+			[
+				"playe",
+				"Scripts\\Player.cs"
+			],
+			[
+				"she",
+				"Scripts\\Items\\GreenShell.cs"
+			],
+			[
+				"pitfa",
+				"Scripts\\Items\\PitfallTrap.cs"
+			],
+			[
+				"cannon",
+				"Scripts\\PBCannon.cs"
+			],
+			[
+				"green",
+				"Scripts\\Items\\GreenShell.cs"
+			],
+			[
+				"gree",
+				"InControl\\Source\\Unity\\DeviceProfiles\\GreenThrottleAtlasAndroidProfile.cs.meta"
+			],
+			[
+				"eventl",
+				"Scripts\\RoomEventLibrary.cs"
+			],
+			[
+				"items",
+				"Scripts\\ItemScript.cs"
+			],
+			[
+				"greensh",
+				"Scripts\\Items\\GreenShell.cs"
+			],
+			[
+				"librar",
+				"Scripts\\RoomEventLibrary.cs"
+			],
+			[
+				"gameg",
+				"Scripts\\GameGUIManager.cs"
+			],
+			[
+				"roo",
+				"Scripts\\RoomManager.cs"
+			],
+			[
+				"gameconfigura",
+				"Scripts\\GameConfiguration.cs"
+			],
+			[
+				"gamec",
+				"Scripts\\GameConfiguration.cs"
+			],
+			[
+				"multiple2",
+				"Scripts\\FocusMultipleCamera2.cs"
+			],
+			[
+				"gamecong",
+				"Scripts\\GameConfiguration.cs"
+			],
+			[
+				"itemm",
+				"Scripts\\ItemManager.cs"
+			],
+			[
+				"gamegi",
+				"Scripts\\GameGUIManager.cs"
+			],
+			[
+				"roome",
+				"Scripts\\RoomEvent.cs"
+			],
+			[
+				"linere",
+				"Scripts\\EffectLineRenderer.cs"
+			],
+			[
+				"mana",
+				"Scripts\\RoomManager.cs"
+			],
+			[
+				"gamero",
+				"InControl\\Source\\Unity\\DeviceProfiles\\GameStickProfile.cs"
+			],
+			[
+				"slow",
+				"Scripts\\Items\\slowBallScript.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/InWork/[Daimler]SpecBus(2015)/DaimlerSpecBus.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
