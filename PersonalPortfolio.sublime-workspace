@@ -519,78 +519,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "content/portfolio/work1.md",
-			"settings":
-			{
-				"buffer_size": 5127,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "content/portfolio/work2.md",
-			"settings":
-			{
-				"buffer_size": 1626,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "content/portfolio/work3.md",
-			"settings":
-			{
-				"buffer_size": 745,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "content/portfolio/work4.md",
-			"settings":
-			{
-				"buffer_size": 2339,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "content/portfolio/work5.md",
-			"settings":
-			{
-				"buffer_size": 1182,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "content/portfolio/work6.md",
-			"settings":
-			{
-				"buffer_size": 2471,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "config.toml",
-			"settings":
-			{
-				"buffer_size": 2065,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "content/about/index.md",
-			"settings":
-			{
-				"buffer_size": 1674,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "content/contact/index.md",
-			"settings":
-			{
-				"buffer_size": 312,
-				"line_ending": "Windows"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -599,8 +527,8 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 73.0,
-		"last_filter": "word co",
+		"height": 101.0,
+		"last_filter": "",
 		"selected_items":
 		[
 			[
@@ -676,7 +604,7 @@
 				"Hex Viewer: Toggle Hex View"
 			]
 		],
-		"width": 593.0
+		"width": 549.0
 	},
 	"console":
 	{
@@ -700,23 +628,102 @@
 	"expanded_folders":
 	[
 		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/archetypes",
 		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content",
 		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/about",
 		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/contact",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/experiments",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/gameplay",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/games",
 		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio",
-		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/data",
 		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/layouts",
-		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/static",
-		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/static/img",
-		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/static/img/portfolio",
-		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes",
-		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme",
-		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts",
-		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/contact",
-		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/static"
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/layouts/games",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/layouts/section",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/layouts/shortcodes",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/static"
 	],
 	"file_history":
 	[
+		"/C/Users/lfeli/Desktop/Compositions/FeelingGood/chords",
+		"/C/Users/lfeli/Desktop/SM.txt",
+		"/C/Users/lfeli/Desktop/solution.cs",
+		"/C/Users/lfeli/AppData/Local/Temp/Temp1_Don't_Drop_the_Bass_YouTubers_pkg104269_start0_num36.zip/Don't_Drop_the_Bass_YouTubers_pkg104269_start0_num36.txt",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/helloWorld.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/dontDropTheBass.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/paPierre.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/ponteTrucha.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/additiveSceneLoader.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/reticleSelection.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/cheveyo.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/dayNightAdjuster.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/bathysphere.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/atrois.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/layouts/shortcodes/gfycat.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/leapMotionCrane.md",
+		"/C/Users/lfeli/Documents/Unity Projects/Bathysphere/Assets/Scripts/Cam360Controller.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Bathysphere/Assets/Scripts/Bathysphere.cs",
+		"/C/Users/lfeli/Documents/Unity Projects/Bathysphere/Assets/Scripts/GameManager.cs",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/public/css/custom.css",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/about/index.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/optionSelector.md",
+		"/C/Users/lfeli/Desktop/Glowstone_Setlist.txt",
+		"/C/Users/lfeli/Desktop/Tocadas.txt",
+		"/C/Users/lfeli/Desktop/AccDia.txt",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/config.toml",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/paleBlerghDot.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/phoneboothDesert.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/textureBlending.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/highwayGenerator.md",
+		"/C/Users/lfeli/Desktop/lines.cs",
+		"/C/Users/lfeli/Desktop/Logs/log_29_1_2017.txt",
+		"/C/Users/lfeli/Desktop/MWU_Story.txt",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/roomLightmapping.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/headEyeTracking.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/contact/index.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/layouts/section/gameplay.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/layouts/section/experiments.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/layouts/partials/portfolio_games.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/layouts/section/experiments",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/gameplay/index.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/experiments/index.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/public/about/index.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/public/contact/index.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/public/about/index.xml",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/archetypes/portfolio.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/layouts/section/games.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/games/index.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/partials/portfolio.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/work6.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/work5.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/work4.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/work3.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/work2.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/work1.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/games/index.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/games/work1.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/layouts/games/list.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/contact/single.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/about/single.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/partials/footer.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/index.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/_default/list.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/layouts/games/single.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/_default/baseof.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/_default/single.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/partials/head.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/partials/attribution.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/partials/mobileNavToggle.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/partials/header.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/partials/scripts.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/404.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/categories/_index.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/archetypes/default.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/archetypes/portfolio.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/exampleSite/content/portfolio/work1.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/exampleSite/content/about/index.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/games/index.html",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/README.md",
+		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/public/index.html",
 		"/C/Users/lfeli/Downloads/Patched and Keygen/How to Install.txt",
 		"/C/Users/lfeli/Downloads/Ableton Live 9 Suite with CRACK Serial Key/Instructions.txt",
 		"/C/Users/lfeli/Downloads/Don't_Drop_the_Bass_Press_pkg104269_start0_num5.txt",
@@ -728,14 +735,12 @@
 		"/C/Users/lfeli/AppData/Local/Temp/fz3temp-1/_data.xml",
 		"/C/Users/lfeli/Documents/Radishbox/DDtB/press/data.xml",
 		"/C/Users/lfeli/AppData/Roaming/Ableton/Live 9.7.1/Preferences/Options.txt",
-		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/contact/index.md",
 		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/TitleScreenManager.cs",
 		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/GameConfiguration.cs",
 		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Steamwork.NET/SteamStatsAndAchievements.cs",
 		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Unlockables/UnlockablesLibrary.cs",
 		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/GameManager.cs",
 		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/RoomManager.cs",
-		"/C/Users/lfeli/Desktop/MWU_Story.txt",
 		"/C/Users/lfeli/AppData/Local/Temp/Temp1_Don't_Drop_the_Bass_Beta_pkg104269_start0_num2 (1).zip/Don't_Drop_the_Bass_Beta_pkg104269_start0_num2.txt",
 		"/C/Users/lfeli/Desktop/steamworks_sdk_138a/sdk/tools/ContentBuilder/scripts/depot_build_471221.vdf",
 		"/C/Users/lfeli/Desktop/steamworks_sdk_138a/sdk/tools/ContentBuilder/scripts/app_build_471220.vdf",
@@ -745,23 +750,14 @@
 		"/C/Users/lfeli/Desktop/steamworks_sdk_138a/sdk/tools/ContentBuilder/scripts/depot_build_471222.vdf",
 		"/C/Users/lfeli/Desktop/steamworks_sdk_138a/sdk/tools/ContentBuilder/run_build_OSX.bat",
 		"/C/Users/lfeli/AppData/Local/Temp/Temp1_Don't_Drop_the_Bass_Beta_pkg104269_start0_num2.zip/Don't_Drop_the_Bass_Beta_pkg104269_start0_num2.txt",
-		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/partials/portfolio.html",
 		"/C/Users/lfeli/Desktop/steamworks_sdk_138a/sdk/tools/ContentBuilder/scripts/depot_build_471221_OSX.vdf",
 		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/asdfasfasf.md",
-		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/index.html",
-		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/themes/hugo-creative-portfolio-theme/layouts/_default/list.html",
-		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/work5.md",
 		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/work10.md",
 		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/work9.md",
 		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/work8.md",
-		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/work6.md",
-		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/work4.md",
-		"/C/Users/lfeli/Documents/Hugo/Sites/PersonalPortfolio/content/portfolio/work3.md",
-		"/C/Users/lfeli/Desktop/Tocadas.txt",
 		"/C/Users/lfeli/Desktop/steamworks_sdk_138a/sdk/tools/ContentBuilder/readme.txt",
 		"/C/Users/lfeli/Desktop/steamworks_sdk_138a/sdk/tools/ContentBuilder/run_build.bat",
 		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/MatchSettingsManager.cs",
-		"/C/Users/lfeli/Desktop/Glowstone_Setlist.txt",
 		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/AudioManager.cs",
 		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/GameSave.cs",
 		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Util/SaveLoadUtil.cs",
@@ -775,76 +771,7 @@
 		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/RoomEventLibrary.cs",
 		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/ItemScript.cs",
 		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/InControl/Source/Binding/PlayerAction.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Input/PlayerActions.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/InControl/Source/Control/InputControlBase.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Items/slowBallScript.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/GameSettingsManager.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/LevelProgressionManager.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/autogen/SteamCallbacks.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/GameGUIManager.cs",
-		"/C/Users/lfeli/Desktop/SM.txt",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/types/SteamUserStats.meta",
-		"/C/Users/lfeli/Desktop/Glowstone_Setlist",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Unlockables/Achievement.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/autogen/SteamStructs.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Unlockables/Hat.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/CSteamworks.bundle/Contents/Info.plist",
-		"/C/Users/lfeli/Documents/Unity Projects/Waving Man/Assets/Scripts/AudioManager.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Waving Man/Assets/Scripts/Citizen.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Waving Man/Assets/Scripts/Player.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Waving Man/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonUserControl.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Waving Man/Assets/Standard Assets/Characters/ThirdPersonCharacter/Scripts/ThirdPersonCharacter.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/PlayerConfiguration.cs",
-		"/C/Users/lfeli/AppData/Roaming/Sublime Text 3/Packages/Hugofy/hugofy.sublime-settings",
-		"/C/Users/lfeli/AppData/Roaming/Sublime Text 3/Packages/User/hugofy.sublime-settings",
-		"/C/Users/lfeli/AppData/Roaming/Sublime Text 3/Packages/HipsterIpsum/README.mdown",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/NeutralArea.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Steamwork.NET/SteamLeaderboardManager.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Unlockables/Slapee.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/MatchSettings.cs",
-		"/C/Users/lfeli/Desktop/split.bat",
-		"/C/Users/lfeli/Desktop/Recreo2017-part1.csv",
-		"/C/Users/lfeli/Desktop/Recreo2017.csv",
-		"/C/Users/lfeli/Desktop/Recreo2017-part5.csv",
-		"/C/Users/lfeli/Desktop/split.batch",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/LeaderboardManager.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/types/SteamUserStats/SteamLeaderboardEntries_t.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Builds/Don't Drop the Bass_Data/output_log.txt",
-		"/C/Users/lfeli/Desktop/steamworks_sdk_138a/sdk/tools/ContentBuilder/content/your game content lives here.txt",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/PlayerArea.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Slapper.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Unlockable.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Tutorial.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Standard Assets/Toon Shading/Sources/Shaders/Toony-LightedOutline.shader",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/FocusMultipleCamera2.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/PlayerAreasManager.cs",
-		"/C/Program Files (x86)/Gource/README.txt",
-		"/C/Users/lfeli/Desktop/DDtB/BassBehaviour_Old.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/Steam.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/Packsize.cs",
-		"/C/Users/lfeli/Desktop/AccDia.txt",
-		"/C/Users/lfeli/Documents/Unity Projects/StarBitOrchestra/Assets/Scripts/PlatformAdjuster.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/StarBitOrchestra/Assets/VRSampleScenes/Scripts/UnityVR/AnimatedSelectionRadial.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/StarBitOrchestra/Assets/VRSampleScenes/Scripts/UnityVR/VRInteractiveReticleItem.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/StarBitOrchestra/Assets/Scripts/StarSeekerCamera.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/BassShadow.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/BassBehaviourRedux.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/autogen/SteamEnums.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/autogen/isteamfriends.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Steamwork.NET/SteamworksManager.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/CallbackDispatcher.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/CallbackIdentity.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/types/SteamTypes/SteamAPICall_t.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/autogen/isteammatchmaking.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/autogen/SteamConstants.cs",
-		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Plugins/Steamworks.NET/autogen/isteamutils.cs",
-		"/C/Users/Felipe/Documents/UnityProjects/DontDropTheBass/DDTB/Assets/Scripts/GameManager.cs",
-		"/C/Users/Felipe/Documents/UnityProjects/DontDropTheBass/DDTB/Assets/Scripts/GameGUIManager.cs",
-		"/C/Users/Felipe/Documents/UnityProjects/DontDropTheBass/DDTB/Assets/Scripts/RoomManager.cs",
-		"/C/Users/Felipe/Documents/UnityProjects/DontDropTheBass/DDTB/Assets/Scripts/RoomEvent.cs",
-		"/C/Users/Felipe/Documents/UnityProjects/DontDropTheBass/DDTB/Assets/Scripts/GameSettingsManager.cs",
-		"/C/Users/Felipe/Documents/UnityProjects/DontDropTheBass/DDTB/Assets/Scripts/Player.cs",
-		"/C/Users/Felipe/Documents/UnityProjects/DontDropTheBass/DDTB/Assets/Scripts/Util/HiResScreenshots.cs"
+		"/C/Users/lfeli/Documents/Unity Projects/Don'tDropTheBass/DDTB/Assets/Scripts/Input/PlayerActions.cs"
 	],
 	"find":
 	{
@@ -863,6 +790,25 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"parent",
+			"came",
+			"game",
+			"camera",
+			"came",
+			"cam",
+			"parent",
+			"camera",
+			"camerapa",
+			"2",
+			"head",
+			"playsto",
+			"header",
+			"taxo",
+			"taxon",
+			"https:",
+			"https",
+			"http",
+			"bootstrap.min.css",
 			"steam",
 			"vote",
 			"honor description",
@@ -971,26 +917,7 @@
 			"onga",
 			"ons",
 			"m_nTotalGamesPlayed",
-			"getstat",
-			"Duration",
-			"getstat",
-			"duration",
-			"4",
-			"m_ulTickCountGameStart",
-			"time",
-			"achievItemUseArray",
-			"CheckItemUseAchiev",
-			"StatsAndAchievements",
-			"BitArray",
-			"speedpl",
-			"fast",
-			"speed",
-			"SpeedPlus",
-			"speed",
-			"CheckForRaveAchievs",
-			"dancing",
-			"player",
-			"CheckForRaveAchievs"
+			"getstat"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -1009,263 +936,8 @@
 	"groups":
 	[
 		{
-			"selected": 8,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "content/portfolio/work1.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 5127,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1464,
-								937
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 100.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "content/portfolio/work2.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1626,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								511,
-								511
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 3,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "content/portfolio/work3.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 745,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								744,
-								656
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "content/portfolio/work4.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2339,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1882,
-								1882
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 40.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "content/portfolio/work5.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1182,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1079,
-								1079
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "content/portfolio/work6.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2471,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1400,
-								1400
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 80.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "config.toml",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2065,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								690,
-								690
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/TOML/TOML.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 218.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "content/about/index.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1674,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1608,
-								1608
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "content/contact/index.md",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 312,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								312,
-								312
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/MarkdownHighlighting/Markdown.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -1321,6 +993,14 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"options",
+				"content\\portfolio\\optionSelector.md"
+			],
+			[
+				".css",
+				"public\\css\\custom.css"
+			],
 			[
 				"",
 				"C:\\Users\\lfeli\\Documents\\Unity Projects\\Don'tDropTheBass\\DDTB\\Assets\\Scripts\\TitleScreenManager.cs"
@@ -1824,14 +1504,6 @@
 			[
 				"mana",
 				"Scripts\\RoomManager.cs"
-			],
-			[
-				"gamero",
-				"InControl\\Source\\Unity\\DeviceProfiles\\GameStickProfile.cs"
-			],
-			[
-				"slow",
-				"Scripts\\Items\\slowBallScript.cs"
 			]
 		],
 		"width": 0.0

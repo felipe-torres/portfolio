@@ -1,4 +1,4 @@
-baseurl = "http://felipe-torres.github.io/"
+baseurl = "https://felipe-torres.github.io/"
 title = "Felipe Torres | Game Developer Portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
@@ -6,6 +6,11 @@ languageCode = "en-us"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+enableEmoji = true
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
 
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
@@ -35,6 +40,18 @@ googleAnalytics = ""
   [[params.navlinks]]
   name = "Home"
   url = ""
+
+  [[params.navlinks]]
+  name = "Games"
+  url = "games/"
+
+  [[params.navlinks]]
+  name = "Gameplay Programming"
+  url = "gameplay/"
+
+  [[params.navlinks]]
+  name = "Experiments"
+  url = "experiments/"
 
   [[params.navlinks]]
   name = "About"
