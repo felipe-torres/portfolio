@@ -16,11 +16,11 @@ Experimenting with external calls to the Soundcloud API on a Unity WebGl build.
 ![Phone Booth Desert][1]
 
 
-#### Live Demo
+<!-- #### Live Demo
 
 > [http://www.radishbox.com/files/lab/Unity/PhoneDesert/](http://www.radishbox.com/files/lab/Unity/PhoneDesert/)
 
-(May throw a warning if your browsing is running low on memory, cannot run on mobile)
+(May throw a warning if your browsing is running low on memory, cannot run on mobile) -->
 
 #### What?
 

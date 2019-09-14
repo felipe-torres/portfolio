@@ -15,11 +15,11 @@ Exploring the THREE.js webgl framework with a mini solar system.
 
 ![Pale Blergh Dot!][1]
 
-#### Live Demo
+<!-- #### Live Demo
 
 > [http://www.radishbox.com/files/lab/ThreeJs/PaleBlerghDot/](http://www.radishbox.com/files/lab/ThreeJs/PaleBlerghDot/)
 
-(Can run on a desktop or mobile browser)
+(Can run on a desktop or mobile browser) -->
 
 #### What?
 

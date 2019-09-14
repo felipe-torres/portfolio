@@ -3,18 +3,22 @@ date = "2017-11-05T21:05:33+05:30"
 title = "About me"
 +++
 
-Hi! My name is Felipe Torres Perugachi, a software engineer that loves the creative media. Be it games, virtual experiences or apps in general, I'm always eager to learn new skills and overcome obstacles with ideas based on a technological and artistic background. I'm also very passionate about sharing knowledge with others and the use of the Internet as a platform to do so.
+Hi! My name is Felipe Torres Perugachi, a software engineer that loves the creative media. Be it games, virtual experiences or apps, I'm always eager to learn new skills and solve problems with a mixture of technological and artistic ideas. I'm also very passionate about sharing knowledge and working with others with the use of the Internet as a platform to do so.
 
 ![This is me][1]
 
-When not coding, eating or sleeping, I'm playing music, videogames, singing or drawing/painting. I've lived in Quito, Guayaquil, Querétaro and Mexico City, all beautiful cities with unique cultures and people. I occassionaly play in a folk band with various instruments, including the accordion, piano, guitar, ocarina, charango and ukulele. Also, every now and then I like to compose little melodies (nothing big, really). My mexican friends used to calling me an "estuche de monerías", which means "jack of all trades".
+When not coding, eating or sleeping, I'm playing music, videogames, singing, drawing/painting or reading. I've lived in Quito, Guayaquil, Querétaro, Mexico City and Cancún, all beautiful cities with unique cultures, landscapes and wonderful people. I occassionaly compose and produce music with a (really basic, but cherished) home recording studio, and sometimes collaborate with musician friends to perform or record songs.
 
 #### Experience
 
-I've been working as a full-time developer since I graduated in 2015, plus the time I've spent on my personal games and projects. During this period, I've worked on 3D and 2D projects (apps, games and experiences) targeted for mobile platforms (Android and iOS), PC and VR (Google Cardboard, Oculus). I've covered different game related tasks such as gameplay programming, artificial intelligence, UI programming and shader development. Also, I've cofounded the indie studio RadishBox where me and a colleague design, plan and develop games and apps created by ourselves.
+I've been working as a full-time developer since I graduated in 2015, plus the time I've spent on my personal games and projects. During this period, I've worked on 3D and 2D projects (apps, games and experiences) targeted for mobile platforms (Android and iOS), PC and VR (Google Cardboard, Oculus). I've covered different game related tasks such as gameplay programming, artificial intelligence, UI programming, shader development, game architecture, and so on. Also, I've cofounded the indie studio RadishBox where me and a colleague design, plan and develop games and apps created by ourselves.
 
 	
 I've worked for the following organizations:
+
+* **[Dun Rite Games](https://dunritegames.gg/)**
+
+Mobile game studio developing Rift Of Raigard.
 
 * **[Yeltic](http://www.yeltic.com/)**
 
@@ -49,5 +53,5 @@ Mar 2016 – Present
 *British Council*
 
 
-[1]: /img/about.jpg#center-resize "'tis me"
+[1]: /img/about.png#center-resize "'tis me"
 

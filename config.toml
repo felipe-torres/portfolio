@@ -1,5 +1,5 @@
 baseurl = "https://felipe-torres.github.io/"
-title = "Felipe Torres | Game Developer Portfolio"
+title = "Felipe Torres | Dev Portfolio"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -15,12 +15,12 @@ enableEmoji = true
 [params]
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
-  style = "green"
+  style = "sea"
   description = "A portfolio of current and past works"
-  copyright = "&copy;2016 Felipe Torres Perugachi"
+  copyright = "&copy;2019 Felipe Torres Perugachi"
   sidebarAbout = [
-    "I am a software engineer with a passion for visual and auditive mediums.",
-    "Born in Ecuador, currently based in Mexico City."
+    "I am a software engineer with a passion for visual and auditive interactive mediums.",
+    "Born in Ecuador, currently based in Mexico."
   ]
   # Contact page
      # Since this template is static, the contact form uses www.formspree.io as a
@@ -66,9 +66,12 @@ enableEmoji = true
   #facebook      = "full page or profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   email         = "lfelipetorresp@gmail.com"
-  twitter       = "https://twitter.com/Xipeluife"
+  #twitter       = "https://twitter.com/Xipeluife"
   linkedin      = "https://mx.linkedin.com/in/lfelipetorres"
-  stackoverflow = "http://stackoverflow.com/users/5082803/luis-felipe-torres-perugachi"
+  #stackoverflow = "http://stackoverflow.com/users/5082803/luis-felipe-torres-perugachi"
   instagram     = "https://www.instagram.com/felipe.perugachi/?hl=en"
   github        = "https://github.com/felipe-torres"
-  tumblr        = "http://xipeluife.tumblr.com/"
+  artstation    = "https://www.artstation.com/felipe_perugachi"
+  soundcloud    = "https://soundcloud.com/felipe_perugachi"
+  #tumblr        = "http://xipeluife.tumblr.com/"
+  #whatsapp      = "https://wa.me/5216674891566"

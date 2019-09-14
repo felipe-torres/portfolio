@@ -6,5 +6,5 @@ title = "Get in touch"
 If you need to reach me for anything, feel free to do so by any of the following channels.
 
 * **Email:** lfelipetorresp@gmail.com
-* **Phone:** (+52)+1+4424362949 
+* **Phone:** (+52)+1+6674891566
 * **Address:** Campeche 356, int. 8, Col. Hipódromo Condesa, Mexico City, Mexico.

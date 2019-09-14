@@ -23,13 +23,14 @@ categories = ["game"]
 ##### General Info
 
 * **Developer:** 
-**[RadishBox](http://www.radishbox.com/)**
+<!-- **[RadishBox](http://www.radishbox.com/)** -->
+**RadishBox**
 * **Release date:**
 17 March, 2017
 * **Platforms:**
 **[Steam (PC, Mac)](http://store.steampowered.com/app/471220/)** 
-* **Website:**
-**[radishbox.com/dontdropthebass](radishbox.com/dontdropthebass/)** 
+<!-- * **Website:**
+**[radishbox.com/dontdropthebass](radishbox.com/dontdropthebass/)**  -->
 
 #### Description
 
@@ -91,8 +92,8 @@ Some additional links regarding this game:
 
 * **Store page:**
 **[Steam (PC, Mac)](http://store.steampowered.com/app/471220/)** 
-* **Press:** 
-**[Press sheet & kit](http://radishbox.com/press/sheet.php?p=Dont_Drop_the_Bass)**
+<!-- * **Press:** 
+**[Press sheet & kit](http://radishbox.com/press/sheet.php?p=Dont_Drop_the_Bass)** -->
 * **Platforms:**
 **[Made With Unity](https://madewith.unity.com/en/games/dont-drop-the-bass)** 
 * **Story:**
