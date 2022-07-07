@@ -11,10 +11,14 @@ When not coding, eating or sleeping, I'm playing music, videogames, singing, dra
 
 #### Experience
 
-I've been working as a full-time developer since I graduated in 2015, plus the time I've spent on my personal games and projects. During this period, I've worked on 3D and 2D projects (apps, games and experiences) targeted for mobile platforms (Android and iOS), PC and VR (Google Cardboard, Oculus). I've covered different game related tasks such as gameplay programming, artificial intelligence, UI programming, shader development, game architecture, and so on. Also, I've cofounded the indie studio RadishBox where me and a colleague design, plan and develop games and apps created by ourselves.
+I've been working as a full-time developer since I graduated in 2015, plus the time I've spent on my personal games and projects. During this period, I've worked on 3D and 2D projects (apps, games and experiences) targeted for mobile platforms (Android and iOS), PC and VR (Google Cardboard, Oculus) and consoles. I've covered different game related tasks such as gameplay programming, artificial intelligence, UI programming, shader development, game architecture, and so on. Also, I've cofounded the indie studio RadishBox where me and a colleague design, plan and develop games and apps created by ourselves.
 
 	
 I've worked for the following organizations:
+
+* **[Kerbal Space Program](https://www.kerbalspaceprogram.com/)**
+
+Kerbal Space Program is a 3D space-vessel building and physics-based spaceflight simulation game released for PC, Playstation 4 and XboxOne.
 
 * **[Dun Rite Games](https://dunritegames.gg/)**
 

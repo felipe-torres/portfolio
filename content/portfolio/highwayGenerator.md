@@ -4,7 +4,7 @@ image = "/img/portfolio/highwayGenerator/PathGeneration_AirView.gif"
 showonlyimage = false
 date = "2016-12-05T19:50:47+05:30"
 title = "Procedural highway generator"
-weight = 2
+weight = 3
 categories = ["gameplay"]
 +++
 

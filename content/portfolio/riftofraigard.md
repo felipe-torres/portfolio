@@ -4,7 +4,7 @@ image = "/img/portfolio/riftOfRaigard/ror_splash.jpg"
 showonlyimage = false
 date = "2019-09-05T19:50:47+05:30"
 title = "Rift of Raigard"
-weight = 1
+weight = 2
 categories = ["game"]
 +++
 

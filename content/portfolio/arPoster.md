@@ -4,7 +4,7 @@ showonlyimage = false
 date = "2019-11-20T19:44:32+05:30"
 title = "AR Poster"
 draft = false
-weight = 1
+weight = 2
 categories = ["experiment"]
 tags = ["ar"]
 +++

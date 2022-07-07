@@ -4,7 +4,7 @@ draft = false
 image = "/img/portfolio/eyeHeadTracking/EyeTrackingScene_sm.gif"
 date = "2016-08-05T18:25:22+05:30"
 title = "Character head and eye tracking"
-weight = 1
+weight = 3
 categories = ["gameplay"]
 +++
 
